@@ -1,0 +1,7 @@
+ What happens when you initialize a dictionary with duplicate keys, like this:
+ data = {'a' : 10, 'b' : 20, 'a':30}
+The first value 10 is kept and the second 30 is ignored.
+The value for a becomes 30.
+The dictionary will contain both instances of 'a'.
+
+ans:The value for a becomes 30.

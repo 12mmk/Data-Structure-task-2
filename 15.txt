@@ -1,0 +1,5 @@
+15. Which code snippet correctly adds 40 to the existing my_set = {10, 20, 30}?
+my_set.append(40) ---- ans
+my_set = my_set + {40}
+my_set[3] = 40
+my_set.add(40)

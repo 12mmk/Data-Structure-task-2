@@ -1,0 +1,13 @@
+13. What is the output of the following?
+d = {'val':10}
+if d.get('score'):
+    print('found)
+else:
+    print('not found')
+
+KeyError
+10
+Not Found
+Found
+
+ans:Not Found
